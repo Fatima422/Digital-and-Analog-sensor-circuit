@@ -1,4 +1,4 @@
-# Code arduino for Digital circuit 
+# Code arduino for Digital sensor circuit 
 
 int ledPin = 13;
 int butPin = 2;
